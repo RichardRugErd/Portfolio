@@ -30,5 +30,3 @@ Future improvements might include:
 Enhancing the simulation's performance for an even larger number of trials.
 Introducing more complex game scenarios and statistical analysis.
 
-About me
-I am Richard Erdelyi, a passionate software developer with a keen interest software development. This challenge was a great opportunity to combine my coding skills. I am excited about the possibility of contributing to the innovative environment at Relax Gaming.
